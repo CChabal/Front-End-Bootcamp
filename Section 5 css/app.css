@@ -1,0 +1,23 @@
+/*selector {
+	property: value;
+}*/
+
+h1	{
+	color: rgba(100,100,100,0.6);
+
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 2px solid rgb(255,100,80);
+}
+
+h4 {
+	background: rgb(255,100,80);
+}
+
+body {
+	background: pink;
+	/*background: url(https://pixabay.com/get/ea32b0082af6013ed1534705fb0938c9bd22ffd41cb513439df6c078a4/meteora-3717220_1920.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
