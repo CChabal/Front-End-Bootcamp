@@ -1,0 +1,30 @@
+/*Type Selectors*/
+
+li {
+	/*specificity of 1*/
+}
+
+li a {
+	/*specificity of 2*/
+}
+
+li + a {
+	/*specificity of 2*/
+}
+
+/*Class, Attribute, and Pseudo-Slass Selectors*/
+
+.hello {
+	/*specificity of 10*/
+}
+
+input[type="text"] {
+	/*specificity of 10*/
+}
+
+
+/*ID Selectors*/
+
+#hello {
+	/*specificity of 100*/
+}

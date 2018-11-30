@@ -16,8 +16,8 @@ h4 {
 }
 
 body {
-	background: pink;
-	/*background: url(https://pixabay.com/get/ea32b0082af6013ed1534705fb0938c9bd22ffd41cb513439df6c078a4/meteora-3717220_1920.jpg);
+	/*background: pink;*/
+	background: url(https://pixabay.com/get/ef37b10a2bf51c22d9584518a33219c8b66ae3d01db217409df1c67a/wood-620531_1920.jpg);
 	background-repeat: no-repeat;
-	background-size: cover;*/
+	background-size: cover;
 }

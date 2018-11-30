@@ -2,10 +2,10 @@ li {
 	border: 2px solid red;
 }
 
-#thirdli {
-	background: yellow;
-}
-
 .completed {
 	text-decoration: line-through;
+}
+
+#thirdli {
+	background: yellow;
 }
