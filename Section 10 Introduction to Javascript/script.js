@@ -1,3 +1,3 @@
-var name = promt("What is your name?");
-alert("Nice to meet you, " + name);
-console.log("Also great to meet you, " + name);
+var name = prompt("name?");
+alert("Hello " + name);
+console.log("Also hello " + name);
